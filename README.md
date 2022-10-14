@@ -1,2 +1,2 @@
 # Setting
-The Multiverse made by Jacob Audley and Oliver Turner.
+The Fantasy Multiverse made by Jacob Audley and Oliver Turner.
