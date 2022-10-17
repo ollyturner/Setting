@@ -1,4 +1,4 @@
-Combination of Letters|Sound
+Combination of Letters|Sounds
 ---|---
 Vowels|Sounds
 g|ʊ
