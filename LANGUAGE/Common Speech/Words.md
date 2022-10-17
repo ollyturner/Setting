@@ -1,0 +1,3 @@
+Word|Translation|Pronounciation
+---|---|---
+|I|
