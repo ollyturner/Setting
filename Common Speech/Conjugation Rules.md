@@ -1,3 +1,6 @@
+# Conjugation Rules
+
+## Personal Pronouns
 Word|Translation|Pronunciation
 ---|---|---
 rso|I (informal)|ɔ: θ 
@@ -17,4 +20,7 @@ tbnddv|They (singular, formal)|t i: ʒ əʊ
 tbndde|They (singular, derogatory)|t i: ʒ ə
 hzj|They (plural, informal)|tʃ aɪ s
 hzjv|They (plural, formal)|tʃ aɪ s əʊ
-hzje|They (plural, derogatory)|tʃ aɪ 
+hzje|They (plural, derogatory)|tʃ aɪ s ə
+## Infinitive
+
+## Present Tense
