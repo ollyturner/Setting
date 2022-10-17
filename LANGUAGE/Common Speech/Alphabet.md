@@ -1,0 +1,30 @@
+# Alphabet
+There are 42 letters of the alphabet:
+q
+v
+y
+m
+f
+p
+l
+c
+i
+j
+g
+x
+a
+z
+t
+k
+b
+u
+Π
+r
+♯
+h
+d
+s
+w
+n
+e
+o
