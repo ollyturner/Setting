@@ -5,7 +5,7 @@ Word|Translation|Pronunciation
 ---|---|---
 rso|I (informal)|ɔ: θ 
 rsov|I (formal)|ɔ: θ əʊ
-rsoe|I (derogatory)ɔ: θ ə
+rsoe|I (derogatory)|ɔ: θ ə
 dddrs|We (informal)|j ɔ:
 dddrsv|We (formal)|j ɔ: əʊ
 dddrse|We (derogatory)|j ɔ: ə
