@@ -1,6 +1,3 @@
-# Conjugation Rules
-
-## Personal Pronouns
 Word|Translation|Pronunciation
 ---|---|---
 rso|I (informal)|ɔ: θ 
@@ -15,7 +12,3 @@ tbmle|You (singular, derogatory)|t ɪ b aʊ ə
 rinmc|You (plural, informal)|æ d e n
 rinmcv|You (plural, formal)|æ d e n əʊ
 rinmce|You (plural, derogatory)|æ d e n ə
-
-## Infinitive
-
-## Present Tense
