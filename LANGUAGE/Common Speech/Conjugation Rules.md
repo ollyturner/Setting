@@ -1,21 +1,26 @@
 # Conjugation Rules
 
 ## Personal Pronouns
-Word|Translation|Pronunciation
+Word|Translation|Notes
 ---|---|---
-rso|I (informal)|ɔ: θ 
-rsov|I (formal)|ɔ: θ əʊ
-rsoe|I (derogatory)ɔ: θ ə
-dddrs|We (informal)|j ɔ:
-dddrsv|We (formal)|j ɔ: əʊ
-dddrse|We (derogatory)|j ɔ: ə
-tbml|You (singular, informal)|t ɪ b aʊ 
-tbmlv|You (singular, formal)|t ɪ b aʊ əʊ
-tbmle|You (singular, derogatory)|t ɪ b aʊ ə
-rinmc|You (plural, informal)|æ d e n
-rinmcv|You (plural, formal)|æ d e n əʊ
-rinmce|You (plural, derogatory)|æ d e n ə
-
+æ tʃ|I|Formal
+æ tʃ æ|I|Informal
+æ tʃ ɒ|I|Derogatory
+ʌ p|We|Formal
+ʌ p æ|We|Informal
+ʌ p ɒ|We|Derogatory
+d e b|You|Singular, Formal
+d e b æ|You|Singular, Informal
+d e b ɒ|You|Singular, Derogatory
+ɜ:|You|Plural, Formal
+ɜ: æ|You|Plural, Informal
+ɜ: ɒ|You|Plural, Derogatory
+a: t|They|Singular, Formal
+a: t æ|They|Singular, Informal
+a: t ɒ|They|Singular, Derogatory
+d ɔ: v|They|Plural, Formal
+d ɔ: v æ|They|Plural, Informal
+d ɔ: v ɒ|They|Plural, Derogatory
 ## Infinitive
 
 ## Present Tense
