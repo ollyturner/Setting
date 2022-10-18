@@ -18,3 +18,4 @@ a: t ɒ|They|Singular, Derogatory
 d ɔ: v|They|Plural, Formal
 d ɔ: v æ|They|Plural, Informal
 d ɔ: v ɒ|They|Plural, Derogatory
+ʒ e z e p|to live|
