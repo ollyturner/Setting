@@ -48,3 +48,49 @@ a: t ɒ|e g + infinitive
 d ɔ: v|e g k s æ + infinitive
 d ɔ: v æ|e g k s æ + infinitive
 d ɔ: v ɒ|e g k s æ + infinitive
+
+## Past Tense
+To conjugate in the past tense you change the infinitve by:
+
+Pronoun|Verb Form
+---|---
+æ tʃ|e s æ+ infinitive
+æ tʃ æ|e s æ + infinitive
+æ tʃ ɒ|e s æ + infinitive
+ʌ p|e s æ k s æ + infinitive
+ʌ p æ|e s æ k s æ + infinitive
+ʌ p ɒ|e s æ k s æ + infinitive
+d e b|tʃ æ s æ + infinitive
+d e b æ|tʃ æ s æ + infinitive
+d e b ɒ|tʃ æ s æ + infinitive
+ɜ:|tʃ æ k s æ s æ + infinitive
+ɜ: æ|tʃ æ k s æ + infinitive
+ɜ: ɒ|tʃ æ k s æ s æ + infinitive
+a: t|e g s æ + infinitive
+a: t æ|e g s æ + infinitive
+a: t ɒ|e g s æ + infinitive
+d ɔ: v|e g s k s æ + infinitive
+d ɔ: v æ|e g s æ k s æ + infinitive
+d ɔ: v ɒ|e g s æ k s æ + infinitive
+
+## Future Tense
+Pronoun|Verb Form
+---|---
+æ tʃ|e s ɒ + infinitive
+æ tʃ æ|e s ɒ + infinitive
+æ tʃ ɒ|e s ɒ + infinitive
+ʌ p|e s ɒ k s æ + infinitive
+ʌ p æ|e s ɒ k s æ + infinitive
+ʌ p ɒ|e s ɒ k s æ + infinitive
+d e b|tʃ æ s ɒ + infinitive
+d e b æ|tʃ æ s ɒ + infinitive
+d e b ɒ|tʃ æ s ɒ + infinitive
+ɜ:|tʃ æ s ɒ k s æ s ɒ + infinitive
+ɜ: æ|tʃ æ s ɒ k s æ + infinitive
+ɜ: ɒ|tʃ æ s ɒ k s æ + infinitive
+a: t|e g s ɒ + infinitive
+a: t æ|e g s ɒ + infinitive
+a: t ɒ|e g s ɒ + infinitive
+d ɔ: v|e g s ɒ k s æ + infinitive
+d ɔ: v æ|e g s ɒ k s æ + infinitive
+d ɔ: v ɒ|e g s ɒ k s æ + infinitive
