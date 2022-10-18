@@ -28,6 +28,8 @@ There is 1 type of infinitive, "ʒ e" verbs. All verbs start with this, for exam
 ## Present Tense
 To conjugate in the present tense you change the infinitve by:
 
+Pronoun|Verb Form
+---|---
 æ tʃ|e + infinitive
 æ tʃ æ|e + infinitive
 æ tʃ ɒ|e + infinitive
